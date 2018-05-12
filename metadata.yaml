@@ -1,0 +1,32 @@
+_repo: M-moires-du-duc-de-Rovigo-pour-servir---l-histoire-de-l-empereur-Napol-on_20108
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Savary, Anne-Jean-Marie-René, duc de Rovigo
+    alias: Savary, Anne-Jean-Marie-Rene, duc de Rovigo
+    birthdate: 1774
+    deathdate: 1833
+    gutenberg_agent_id: '9086'
+    url: http://www.gutenberg.org/2009/agents/9086
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Jean_Marie_Ren%C3%A9_Savary
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- France
+gutenberg_issued: '2006-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20108'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Savary, Anne-Jean-Marie-René, duc de Rovigo, 1774-1833'
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+title: Mémoires du duc de Rovigo, pour servir à l'histoire de l'empereur Napoléon
+url: http://www.gutenberg.org/ebooks/20108
