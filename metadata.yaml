@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9086
     wikipedia: http://en.wikipedia.org/wiki/Anne_Jean_Marie_Ren%C3%A9_Savary
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20108#M-moires-du-duc-de-Rovigo-pour-servir---l-histoire-de-l-empereur-Napol-on
 gutenberg_bookshelf:
 - FR Histoire
 - France
